@@ -7,3 +7,4 @@ This project is in development phase.
 * v1 - Initial Routes Added. 
 * v1 - Layouts Added.
 * v1 - Campgrounds created without styling.
+* v1 - Campgrounds styled with cards (Bootstrap 4).
