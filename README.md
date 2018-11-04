@@ -8,3 +8,4 @@ This project is in development phase.
 * v1 - Layouts Added.
 * v1 - Campgrounds created without styling.
 * v1 - Campgrounds styled with cards (Bootstrap 4).
+* v1 - Added a navigation bar.
