@@ -9,3 +9,4 @@ This project is in development phase.
 * v1 - Campgrounds created without styling.
 * v1 - Campgrounds styled with cards (Bootstrap 4).
 * v1 - Added a navigation bar and campground form styled.
+* v1 - Basic styling of landing page
