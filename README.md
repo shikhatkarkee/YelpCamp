@@ -12,3 +12,4 @@ This project is in development phase.
 * v1 - Basic styling of landing page
 * v2 - Added mongoose
 * v2 - Added description and show route(RESTful route).
+* v3 - Refactoring app.js.
